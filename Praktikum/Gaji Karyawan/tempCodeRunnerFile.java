@@ -1,0 +1,1 @@
+System.out.println("Total gaji per bulan: " + total_gaji);
