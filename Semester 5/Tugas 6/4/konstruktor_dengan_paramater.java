@@ -18,6 +18,4 @@ public class konstruktor_dengan_paramater {
         mobilSaya.maju();
         mobilSaya.mundur();
     }
-    
-
 }
